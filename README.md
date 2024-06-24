@@ -1,6 +1,6 @@
 # AutoHotkey Script para ELDEN RING™
 
-![Sacred Relic Sword](https://i.postimg.cc/C50ft0Sp/Sacred-Relic-Sword.jpg)
+
 
 Este script em AutoHotkey automatiza uma série de ações no jogo ELDEN RING™. Quando ativado, ele executa uma sequência específica de comandos repetidamente. Este script é projetado para ser usado na bonfire "Estrada do Penhasco" e requer a Espada Sagrada da Relíquia para o farm.
 
@@ -9,6 +9,7 @@ Este script em AutoHotkey automatiza uma série de ações no jogo ELDEN RING™
 - [AutoHotkey](https://www.autohotkey.com/) instalado no seu sistema.
 - Bonfire "Estrada do Penhasco" em ELDEN RING™.
 - Espada Sagrada da Relíquia.
+- ![Sacred Relic Sword](https://i.postimg.cc/C50ft0Sp/Sacred-Relic-Sword.jpg)
 
 ## Instalação
 
