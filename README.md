@@ -41,10 +41,9 @@ O script está configurado para:
    - `g` pressionado e solto com intervalos específicos.
    - `f` pressionado e solto com intervalos específicos.
    - `e` pressionado e solto com intervalos específicos.
-   - `j` pressionado e solto com intervalos específicos.
    - `w` pressionado e solto com intervalos específicos.
    - `q` pressionado e solto com intervalos específicos.
-3. Repete esta sequência 10 vezes antes de reativar a janela do jogo.
+   - `j` pressionado e solto com intervalos específicos.(habilidade especial da arma)
 
 ## Observações
 
